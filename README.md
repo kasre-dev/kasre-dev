@@ -1,15 +1,18 @@
 # Luiz Ferreira
 
-Engenharia Mecatrônica e Ciências Ambientais. Atuo na convergência entre inteligência comercial, automação física, perícia técnica e arquitetura de produto. Cofundador da AODEV e responsável pela gestão comercial e inteligência de dados na Retífica Olariense. <br> Desenvolvo sistemas orientados a eficiência operacional, telemetria industrial e comunicação estratégica de alta conversão. Utilizo Python, SQL, HTML5, CSS3, JS Vanilla, Node.js e Next.js para desenvolvimento web, geoprocessamento, análise de dados biogeoreferenciados, desenvolvimento de sistemas de gestão MVP's e infraestrutura para automação de processos, integrando sistemas via webhooks, APIs e funis de dados para conversão.
+Engenharia Mecatrônica e Ciências Ambientais. Atuo na convergência entre inteligência comercial, automação física, perícia técnica e arquitetura de produto. Cofundador da AODEV e responsável pela gestão comercial e inteligência de dados na Retífica Olariense. <br> Desenvolvo sistemas orientados a eficiência operacional, telemetria industrial e comunicação estratégica de alta conversão. Utilizo Next.js, Node.js, JS Vanilla, CSS3, HTML5, SQL, Python, QGIS, Google Tag Manager e TouchDesigner para desenvolvimento web, geoprocessamento, análise de dados biogeoreferenciados, desenvolvimento de sistemas de gestão MVP's e infraestrutura para automação de processos, integrando sistemas via webhooks, APIs e funis de dados para conversão.
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white" />
+  <img src="https://img.shields.io/badge/GTM-246FDB?style=for-the-badge&logo=google-tag-manager&logoColor=white" />
+  <img src="https://img.shields.io/badge/TouchDesigner-000000?style=for-the-badge&logo=applemusic&logoColor=white" />
 </p>
 
 ---
@@ -34,7 +37,7 @@ Engenharia Mecatrônica e Ciências Ambientais. Atuo na convergência entre inte
 
 ---
 
-### Telemetria de Atividade
+### Matriz de Atuação Interdisciplinar
 
 ```text
 Mecatrônica & Perícia         [███████████████████] 25%
@@ -59,3 +62,4 @@ Licenciamentos / Licitações   [██████████░░░░░�
 - ⚙️ **Retífica Olariense**: [retificaolariense.com.br](https://retificaolariense.com.br/?utm_source=github)
 - 📝 **Copyend**: [copyend.vercel.app](https://copyend.vercel.app/?utm_source=github)
 - 🔧 **RetificaPro (Vercel)**: [retificapro-app.vercel.app](https://retificapro-app.vercel.app/?utm_source=github)
+- ✍️ **Medium**: [medium.com](https://medium.com/)
