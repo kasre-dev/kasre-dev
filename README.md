@@ -4,20 +4,20 @@ Engenharia Mecatrônica e Ciências Ambientais. Atuo na convergência entre inte
 
 **Stack de Desenvolvimento** <br>
 <p align="left">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <a href="https://nextjs.org/" target="_blank"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" /></a>
+  <a href="https://nodejs.org/" target="_blank"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></a>
+  <a href="https://www.postgresql.org/" target="_blank"><img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" /></a>
+  <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
 </p>
 
 **Plataformas & Infraestrutura** <br>
 <p align="left">
-  <img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white" />
-  <img src="https://img.shields.io/badge/GTM-246FDB?style=for-the-badge&logo=google-tag-manager&logoColor=white" />
-  <img src="https://img.shields.io/badge/TouchDesigner-000000?style=for-the-badge&logo=applemusic&logoColor=white" />
+  <a href="https://qgis.org/" target="_blank"><img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white" /></a>
+  <a href="https://marketingplatform.google.com/about/tag-manager/" target="_blank"><img src="https://img.shields.io/badge/GTM-246FDB?style=for-the-badge&logo=google-tag-manager&logoColor=white" /></a>
+  <a href="https://derivative.ca/" target="_blank"><img src="https://img.shields.io/badge/TouchDesigner-000000?style=for-the-badge&logo=applemusic&logoColor=white" /></a>
 </p>
 
 ---
@@ -54,17 +54,17 @@ Licenciamentos / Licitações   [██████████░░░░░�
 
 ### Contato Executivo
 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp_Comercial-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5521997187279?text=Ol%C3%A1%2C%20vim%20do%20github!)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/copyend-luiz-ferreira)
+<a href="https://wa.me/5521997187279?text=Ol%C3%A1%2C%20vim%20do%20github!" target="_blank"><img src="https://img.shields.io/badge/WhatsApp_Comercial-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Comercial" /></a>
+<a href="https://www.linkedin.com/in/copyend-luiz-ferreira" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 
 **E-mails (Por assunto):**
-- [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:contactluizferreira@gmail.com?subject=Contato%20via%20GitHub&body=Ol%C3%A1%2C%20vim%20do%20github!) **Executivo / Pessoal**
-- [![E-mail](https://img.shields.io/badge/Email_AODEV-005571?style=flat-square&logo=minutemailer&logoColor=white)](mailto:luizferreira@aodev.solutions?subject=Contato%20via%20GitHub&body=Ol%C3%A1%2C%20vim%20do%20github!) **Comercial AODEV Solutions**
-- [![E-mail](https://img.shields.io/badge/Email_Olariense-005571?style=flat-square&logo=minutemailer&logoColor=white)](mailto:luizferreira@retificaolariense.com.br?subject=Contato%20via%20GitHub&body=Ol%C3%A1%2C%20vim%20do%20github!) **Comercial Retífica Olariense**
+- <a href="mailto:contactluizferreira@gmail.com?subject=Contato%20via%20GitHub&body=Ol%C3%A1%2C%20vim%20do%20github!" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" /></a> **Executivo / Pessoal**
+- <a href="mailto:luizferreira@aodev.solutions?subject=Contato%20via%20GitHub&body=Ol%C3%A1%2C%20vim%20do%20github!" target="_blank"><img src="https://img.shields.io/badge/Email_AODEV-005571?style=flat-square&logo=minutemailer&logoColor=white" alt="Email AODEV" /></a> **Comercial AODEV Solutions**
+- <a href="mailto:luizferreira@retificaolariense.com.br?subject=Contato%20via%20GitHub&body=Ol%C3%A1%2C%20vim%20do%20github!" target="_blank"><img src="https://img.shields.io/badge/Email_Olariense-005571?style=flat-square&logo=minutemailer&logoColor=white" alt="Email Olariense" /></a> **Comercial Retífica Olariense**
 
 **Projetos & Corporativo:**
-- 🏢 **AODEV Solutions**: [https://aodev.solutions](https://aodev.solutions/?utm_source=github)
-- ⚙️ **Retífica Olariense**: [https://retificaolariense.com.br](https://retificaolariense.com.br/?utm_source=github)
-- 📝 **Copyend**: [https://copyend.vercel.app](https://copyend.vercel.app/?utm_source=github)
-- 🔧 **RetificaPro (Vercel)**: [https://retificapro-app.vercel.app](https://retificapro-app.vercel.app/?utm_source=github)
-- ✍️ **Medium**: [@copyend](https://medium.com/@copyend)
+- 🏢 **AODEV Solutions**: <a href="https://aodev.solutions/?utm_source=github" target="_blank">https://aodev.solutions</a>
+- ⚙️ **Retífica Olariense**: <a href="https://retificaolariense.com.br/?utm_source=github" target="_blank">https://retificaolariense.com.br</a>
+- 📝 **Copyend**: <a href="https://copyend.vercel.app/?utm_source=github" target="_blank">https://copyend.vercel.app</a>
+- 🔧 **RetificaPro (Vercel)**: <a href="https://retificapro-app.vercel.app/?utm_source=github" target="_blank">https://retificapro-app.vercel.app</a>
+- ✍️ **Medium**: <a href="https://medium.com/@copyend" target="_blank">@copyend</a>
