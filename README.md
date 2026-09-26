@@ -28,9 +28,9 @@ Observador metódico de (eco)sistemas. Engenharia Mecatrônica e Ciências Ambie
 | :--- | :--- | :--- | :--- |
 | **RetificaPro** | SaaS / Mecânica e Usinagem | Plataforma de gestão e instrução técnica para oficinas mecânicas e retíficas de precisão. | `🔒 Privado` |
 | **AODEV Nexus** | Software / Automação | Infraestrutura educacional de integrações via webhooks, APIs e funis de dados para conversão. | `🔒 Privado` |
-| **Copyend** | Ensaios / Estratégia | Arquitetura de conteúdo, UX Writing, síntese analítica e SEO técnico. | `🔒 Privado` |
+| **Copyend** | Ensaios / Estratégia | Arquitetura de conteúdo, UX Writing, e SEO técnico. Síntese analítica, política e fundamentalista. | `🔒 Privado` |
 | **DocApp Compliance** | Integrador ERP / QMS | Sistema integrador de documentações técnicas, ISOs, POPs e laudos periciais. | `🔒 Privado` |
-| **Copyend Dashboard** | Hub Analítico | Central agregadora de telemetria, clima, rádio e feeds do ecossistema. | `🔓 Público` |
+| **Copyend Dashboard** | Hub Analítico | Central agregadora de telemetria, clima, rádio e feeds do hub do ecossistema. | `🔓 Público` |
 
 ---
 
