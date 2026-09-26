@@ -54,17 +54,17 @@ Licenciamentos / Licitações   [██████████░░░░░�
 
 ### Contato Executivo
 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp_Comercial-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5521997187279)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp_Comercial-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5521997187279?text=Ol%C3%A1%2C%20vim%20do%20github!)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/copyend-luiz-ferreira)
 
 **E-mails (Por assunto):**
-- [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:contactluizferreira@gmail.com) **Executivo / Pessoal**
-- [![E-mail](https://img.shields.io/badge/Email_AODEV-005571?style=flat-square&logo=minutemailer&logoColor=white)](mailto:luizferreira@aodev.solutions) **Comercial AODEV Solutions**
-- [![E-mail](https://img.shields.io/badge/Email_Olariense-005571?style=flat-square&logo=minutemailer&logoColor=white)](mailto:luizferreira@retificaolariense.com.br) **Comercial Retífica Olariense**
+- [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:contactluizferreira@gmail.com?subject=Contato%20via%20GitHub&body=Ol%C3%A1%2C%20vim%20do%20github!) **Executivo / Pessoal**
+- [![E-mail](https://img.shields.io/badge/Email_AODEV-005571?style=flat-square&logo=minutemailer&logoColor=white)](mailto:luizferreira@aodev.solutions?subject=Contato%20via%20GitHub&body=Ol%C3%A1%2C%20vim%20do%20github!) **Comercial AODEV Solutions**
+- [![E-mail](https://img.shields.io/badge/Email_Olariense-005571?style=flat-square&logo=minutemailer&logoColor=white)](mailto:luizferreira@retificaolariense.com.br?subject=Contato%20via%20GitHub&body=Ol%C3%A1%2C%20vim%20do%20github!) **Comercial Retífica Olariense**
 
 **Projetos & Corporativo:**
 - 🏢 **AODEV Solutions**: [https://aodev.solutions](https://aodev.solutions/?utm_source=github)
 - ⚙️ **Retífica Olariense**: [https://retificaolariense.com.br](https://retificaolariense.com.br/?utm_source=github)
 - 📝 **Copyend**: [https://copyend.vercel.app](https://copyend.vercel.app/?utm_source=github)
 - 🔧 **RetificaPro (Vercel)**: [https://retificapro-app.vercel.app](https://retificapro-app.vercel.app/?utm_source=github)
-- ✍️ **Medium**: [medium.com]([https://medium.com/](https://medium.com/@copyend))
+- ✍️ **Medium**: [@copyend](https://medium.com/@copyend)
