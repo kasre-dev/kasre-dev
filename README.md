@@ -54,7 +54,7 @@ Licenciamentos / Licitações   [██████████░░░░░�
 
 ### Contato Executivo
 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp_Olariense-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5521997187279)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp_Comercial-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5521997187279)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/copyend-luiz-ferreira)
 
 **E-mails (Por assunto):**
@@ -63,8 +63,8 @@ Licenciamentos / Licitações   [██████████░░░░░�
 - [![E-mail](https://img.shields.io/badge/Email_Olariense-005571?style=flat-square&logo=minutemailer&logoColor=white)](mailto:luizferreira@retificaolariense.com.br) **Comercial Retífica Olariense**
 
 **Projetos & Corporativo:**
-- 🏢 **AODEV Solutions**: [aodev.solutions](https://aodev.solutions/?utm_source=github)
-- ⚙️ **Retífica Olariense**: [retificaolariense.com.br](https://retificaolariense.com.br/?utm_source=github)
-- 📝 **Copyend**: [copyend.vercel.app](https://copyend.vercel.app/?utm_source=github)
-- 🔧 **RetificaPro (Vercel)**: [retificapro-app.vercel.app](https://retificapro-app.vercel.app/?utm_source=github)
-- ✍️ **Medium**: [medium.com](https://medium.com/)
+- 🏢 **AODEV Solutions**: [https://aodev.solutions](https://aodev.solutions/?utm_source=github)
+- ⚙️ **Retífica Olariense**: [https://retificaolariense.com.br](https://retificaolariense.com.br/?utm_source=github)
+- 📝 **Copyend**: [https://copyend.vercel.app](https://copyend.vercel.app/?utm_source=github)
+- 🔧 **RetificaPro (Vercel)**: [https://retificapro-app.vercel.app](https://retificapro-app.vercel.app/?utm_source=github)
+- ✍️ **Medium**: [medium.com]([https://medium.com/](https://medium.com/@copyend))
