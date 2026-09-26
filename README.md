@@ -22,6 +22,7 @@ Engenharia Mecatrônica e Ciências Ambientais. Atuo na convergência entre inte
 | **AODEV Nexus** | Software / Automação | Infraestrutura educacional de integrações via webhooks, APIs e funis de dados para conversão. | `🔒 Privado` |
 | **Copyend** | Ensaios / Estratégia | Arquitetura de conteúdo, UX Writing, síntese analítica e SEO técnico. | `🔒 Privado` |
 | **DocApp Compliance** | Integrador ERP / QMS | Sistema integrador de documentações técnicas, ISOs, POPs e laudos periciais. | `🔒 Privado` |
+| **Copyend Dashboard** | Hub Analítico | Central agregadora de telemetria, clima, rádio e feeds do ecossistema. | `🔓 Público` |
 
 ---
 
