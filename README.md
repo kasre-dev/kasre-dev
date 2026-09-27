@@ -65,13 +65,13 @@ Licenciamentos / Licitações   [██████████░░░░░�
 **Projetos & Corporativo:**
 <p align="left" dir="auto">
   <a href="https://aodev.solutions/?utm_source=github" target="_blank">
-    <img src="https://aodev.solutions/assets/logo-black-Cvpi3K3f.png" alt="AODEV Solutions" height="28">
+    <img src="https://aodev.solutions/assets/logo-black-Cvpi3K3f.png" height="28"><img src="https://img.shields.io/badge/AODEV_Solutions-101010?style=for-the-badge" alt="AODEV Solutions">
   </a>
   <a href="https://retificaolariense.com.br/?utm_source=github" target="_blank">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjBJf_DbWWCXYxzDw77QwjooK0ZL6Y0yzbuYlWHXying&s" alt="Retífica Olariense" height="28">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjBJf_DbWWCXYxzDw77QwjooK0ZL6Y0yzbuYlWHXying&s" height="28"><img src="https://img.shields.io/badge/Retífica_Olariense-005571?style=for-the-badge" alt="Retífica Olariense">
   </a>
   <a href="https://copyend.vercel.app/?utm_source=github" target="_blank">
-    <img src="https://miro.medium.com/v2/resize:fit:290/1*9VgFtFr8fADhJfhmbKJJwg.png" alt="Copyend" height="28">
+    <img src="https://miro.medium.com/v2/resize:fit:290/1*9VgFtFr8fADhJfhmbKJJwg.png" height="28"><img src="https://img.shields.io/badge/Copyend-000000?style=for-the-badge" alt="Copyend">
   </a>
   <a href="https://retificapro-app.vercel.app/?utm_source=github" target="_blank">
     <img src="https://img.shields.io/badge/RetificaPro-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="RetificaPro">
