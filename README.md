@@ -68,7 +68,7 @@ Licenciamentos / Licitações   [██████████░░░░░�
     <img src="./assets/aodev.png" height="28"><img src="https://img.shields.io/badge/AODEV_Solutions-101010?style=for-the-badge" alt="AODEV Solutions">
   </a>
   <a href="https://retificaolariense.com.br/?utm_source=github" target="_blank">
-    <img src="./assets/OlarienseLogo.png" height="28"><img src="https://img.shields.io/badge/Retífica_Olariense-101010?style=for-the-badge" alt="Retífica Olariense">
+    <img src="./assets/OlarienseLogo.png" height="28" style="background-color: white;"><img src="https://img.shields.io/badge/Retífica_Olariense-ffffff?style=for-the-badge" alt="Retífica Olariense">
   </a>
   <a href="https://copyend.vercel.app/?utm_source=github" target="_blank">
     <img src="./assets/CopyendLOGO.png" height="28"><img src="https://img.shields.io/badge/Copyend-101010?style=for-the-badge" alt="Copyend">
@@ -78,5 +78,8 @@ Licenciamentos / Licitações   [██████████░░░░░�
   </a>
   <a href="https://medium.com/@copyend" target="_blank">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
+  </a>
+  <a href="https://www.linkedin.com/in/copyend-luiz-ferreira" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
