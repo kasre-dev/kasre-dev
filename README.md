@@ -63,8 +63,20 @@ Licenciamentos / Licitações   [██████████░░░░░�
 - <a href="mailto:luizferreira@retificaolariense.com.br?subject=Contato%20via%20GitHub&body=Ol%C3%A1%2C%20vim%20do%20github!" target="_blank"><img src="https://img.shields.io/badge/Email_Olariense-005571?style=flat-square&logo=minutemailer&logoColor=white" alt="Email Olariense" /></a> **Comercial Retífica Olariense**
 
 **Projetos & Corporativo:**
-- 🏢 **AODEV Solutions**: <a href="https://aodev.solutions/?utm_source=github" target="_blank">https://aodev.solutions</a>
-- ⚙️ **Retífica Olariense**: <a href="https://retificaolariense.com.br/?utm_source=github" target="_blank">https://retificaolariense.com.br</a>
-- 📝 **Copyend**: <a href="https://copyend.vercel.app/?utm_source=github" target="_blank">https://copyend.vercel.app</a>
-- 🔧 **RetificaPro (Vercel)**: <a href="https://retificapro-app.vercel.app/?utm_source=github" target="_blank">https://retificapro-app.vercel.app</a>
-- ✍️ **Medium**: <a href="https://medium.com/@copyend" target="_blank">@copyend</a>
+<p align="left" dir="auto">
+  <a href="https://aodev.solutions/?utm_source=github" target="_blank">
+    <img src="https://img.shields.io/badge/AODEV_Solutions-101010?style=for-the-badge&logo=web&logoColor=white" alt="AODEV Solutions">
+  </a>
+  <a href="https://retificaolariense.com.br/?utm_source=github" target="_blank">
+    <img src="https://img.shields.io/badge/Retífica_Olariense-005571?style=for-the-badge&logo=web&logoColor=white" alt="Retífica Olariense">
+  </a>
+  <a href="https://copyend.vercel.app/?utm_source=github" target="_blank">
+    <img src="https://img.shields.io/badge/Copyend-000000?style=for-the-badge&logo=web&logoColor=white" alt="Copyend">
+  </a>
+  <a href="https://retificapro-app.vercel.app/?utm_source=github" target="_blank">
+    <img src="https://img.shields.io/badge/RetificaPro-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="RetificaPro">
+  </a>
+  <a href="https://medium.com/@copyend" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
+  </a>
+</p>
