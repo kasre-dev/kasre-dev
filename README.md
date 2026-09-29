@@ -32,12 +32,6 @@ Observador metódico de (eco)sistemas. Engenharia Mecatrônica e Ciências Ambie
 | **DocApp Compliance** | Integrador ERP / QMS | Sistema integrador de documentações técnicas, ISOs, POPs e laudos periciais. | `🔒 Privado` |
 ---
 
-### Produção Técnica e Editorial
-
-<!-- BLOG-POST-LIST:START -->
-*Em breve: Atualizações automáticas de ensaios e artigos.*
-<!-- BLOG-POST-LIST:END -->
-
 ---
 
 ### Matriz de Atuação Interdisciplinar
