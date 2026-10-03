@@ -24,7 +24,7 @@ Observador metódico de (eco)sistemas. Engenharia Mecatrônica e Ciências Ambie
 
 ### Ecossistema de Projetos
 
-| Projeto | Domínio | Descrição | Repositório |
+| Projeto | Domínio | Descrição |
 | :--- | :--- | :--- | :--- |
 | **RetificaPro** | SaaS / Mecânica e Usinagem | Plataforma de gestão e instrução técnica para oficinas mecânicas e retíficas de precisão. |
 | **AODEV Nexus** | Software / Automação | Infraestrutura educacional de integrações via webhooks, APIs e funis de dados para conversão. |
