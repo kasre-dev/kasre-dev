@@ -65,9 +65,6 @@ Licenciamentos / Licitações   [██████████░░░░░�
   <a href="https://copyend.vercel.app/?utm_source=github" target="_blank">
     <img src="./assets/CopyendLOGO.png" height="28"><img src="https://img.shields.io/badge/Copyend-101010?style=for-the-badge" alt="Copyend">
   </a>
-  <a href="https://retificapro-app.vercel.app/?utm_source=github" target="_blank">
-    <img src="https://img.shields.io/badge/RetificaPro-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="RetificaPro">
-  </a>
   <a href="https://medium.com/@copyend" target="_blank">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
   </a>
