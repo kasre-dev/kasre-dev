@@ -1,0 +1,10 @@
+# Dependencies
+node_modules/
+package-lock.json
+
+# Local workflows without workflow scope
+.github/
+
+# System files
+.DS_Store
+Thumbs.db
